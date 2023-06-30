@@ -26,7 +26,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a Front End Developer from Indonesia.
 
 - :telescope: I’m interested in Programmming especially in Front End Development.
 
