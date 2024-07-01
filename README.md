@@ -30,7 +30,7 @@ I am a Front End Developer from Indonesia.
 
 - :telescope: I’m interested in Programmming especially in Front End Development.
 
-- :seedling: I'm currently learning NuxtJs, Vue3, and ReactJs.
+- :seedling: I'm currently learning NextJs, Vue3, and ReactJs.
 
 - :zap: In my spare time, I like to learn new things that can expand my knowledge
 
@@ -40,7 +40,7 @@ I am a Front End Developer from Indonesia.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,flutter,cs,unity,nuxtjs,jquery,mongodb,mysql,dart,php,figma,vscode,github,postman,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,flutter,cs,unity,nuxtjs,nextjs,jquery,mongodb,mysql,dart,php,figma,vscode,github,postman,nodejs)](https://skillicons.dev)
 
 ---
 ### :fire: Stats :
